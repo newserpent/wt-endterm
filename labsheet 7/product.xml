@@ -1,1 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href=" Displayproduct..xsl"?>
+<class> 
+   <product id="101">
+      <productname>Badam</productname> 
+      <weight>50 gms</weight> 
+ </product> 
+  <product id="102">
+      <productname>Cashew nuts</productname> 
+      <weight>100 gms</weight> 
+ </product>
+  <product id="103">
+      <productname>Coffee Powder</productname> 
+      <weight>150 gms</weight> 
+ </product>
+  <product id="104">
+      <productname>Salt</productname> 
+      <weight>250 gms</weight> 
+ </product> 
+ <product id="105">
+      <productname>Dhal</productname> 
+      <weight>500 gms</weight> 
+ </product>
+ <product id="106">
+      <productname>Oil</productname> 
+      <weight>500 liter</weight> 
+ </product>
+ <product id="107">
+      <productname>Sugar</productname> 
+      <weight>1000 gms</weight> 
+ </product>
+</class>
 
